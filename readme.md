@@ -4,15 +4,15 @@
 We just launched a new product, called a Business Owners Policy (BOP).  Our CEO wants to better understand customer behavior after launch.  These are his questions:
 
 **What is the ratio of new to repeat customers we’re getting for our BOP sales?**
- * Answer: I show 344 total BOP sales (excluding declind status).  313 new, 31 repeat
+ * **Answer:** I show 344 total BOP sales (excluding declind status).  313 new, 31 repeat
 
 **For our repeat customers:**
  * How many had an active policy at time of purchase for BOP?
-   ##* Answer: I show 7 had an active policy at the time of BOP purchase
+   * **Answer:** I show 7 had an active policy at the time of BOP purchase
  * How many were dormant before their BOP purchase?
-   * Answer: I show 24 dormant before NOP purchase
+   * **Answer:** I show 24 dormant before NOP purchase
  * How many retained their non-BOP policy when they purchased BOP?
-   * Answer: I show 4 retained thier non-BOP policy
+   * **Answer:** I show 4 retained thier non-BOP policy
 
 For this exercise, provide the code you used to answer these questions.
 
@@ -155,7 +155,7 @@ Help us understand this by showing our customer retention rate over each month o
 
 We’d like to see an accompanying visualization to show your findings, and also the code you used to calculate monthly retention. 
 
- * Answer: I show the retention rates hovers around 85-95%
+ * **Answer:** I show the retention rates hovers around 85-95%
  
  ![Retention Rate](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2.png)
 
