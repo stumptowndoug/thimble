@@ -155,7 +155,8 @@ Help us understand this by showing our customer retention rate over each month o
 
 We’d like to see an accompanying visualization to show your findings, and also the code you used to calculate monthly retention. 
 
- * Answer: I show the retention rates hovers around 85-95%*
+ * Answer: I show the retention rates hovers around 85-95%
+ 
  ![Retention Rate](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2.png)
 
 
