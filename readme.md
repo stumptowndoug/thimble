@@ -247,9 +247,20 @@ group by
  ![Retention Rate - appkey](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2b_appkey.png)
  
  
-**Here is a view of retention rate by plan name.
+**Here is a view of retention rate by plan name.**
  
  ![Retention Rate - appkey](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2b_plan_name.png)
+ 
+ 
+ ## Doug Dement - Appendix information
+Steps I took to build out this query.
+
+ 1. **Stood up an instance of postgres using docker**
+    * [Docker Yaml file](https://github.com/stumptowndoug/thimble/blob/main/docker-compose.yml)
+  
+  
+ 2. **Added tables from the assignent file and insterted data records**
+    * [SQL table creation and inserts](https://github.com/stumptowndoug/thimble/tree/main/sql)
 
 
 
