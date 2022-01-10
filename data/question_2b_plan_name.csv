@@ -1,0 +1,164 @@
+"coverage_month","plan_name","total_policies","start_policies","new_policies","termed_policies","retention"
+"2021-04-01","",16,NULL,16,0,NULL
+"2021-05-01","",34,16,18,0,1.000
+"2021-06-01","",52,34,18,5,1.000
+"2021-07-01","",65,52,18,7,0.904
+"2021-08-01","",79,65,21,5,0.892
+"2021-09-01","",95,79,21,6,0.937
+"2020-01-01","Beauty & Fitness",1,NULL,1,0,NULL
+"2020-02-01","Beauty & Fitness",56,1,55,6,1.000
+"2020-03-01","Beauty & Fitness",103,56,53,13,0.893
+"2020-04-01","Beauty & Fitness",107,103,17,23,0.874
+"2020-05-01","Beauty & Fitness",105,107,21,12,0.785
+"2020-06-01","Beauty & Fitness",155,105,62,9,0.886
+"2020-07-01","Beauty & Fitness",184,155,38,11,0.942
+"2020-08-01","Beauty & Fitness",208,184,35,24,0.940
+"2020-09-01","Beauty & Fitness",227,208,43,21,0.885
+"2020-10-01","Beauty & Fitness",239,227,33,9,0.907
+"2020-11-01","Beauty & Fitness",253,239,23,16,0.962
+"2020-12-01","Beauty & Fitness",251,253,14,30,0.937
+"2021-01-01","Beauty & Fitness",278,251,57,13,0.880
+"2021-02-01","Beauty & Fitness",313,278,48,21,0.953
+"2021-03-01","Beauty & Fitness",334,313,42,36,0.933
+"2021-04-01","Beauty & Fitness",362,334,64,26,0.892
+"2021-05-01","Beauty & Fitness",406,362,70,34,0.928
+"2021-06-01","Beauty & Fitness",433,406,61,43,0.916
+"2021-07-01","Beauty & Fitness",433,433,43,39,0.901
+"2021-08-01","Beauty & Fitness",413,433,19,55,0.910
+"2021-09-01","Beauty & Fitness",377,413,19,52,0.867
+"2020-01-01","Cleaners & Janitors",3,NULL,3,0,NULL
+"2020-02-01","Cleaners & Janitors",70,3,67,4,1.000
+"2020-03-01","Cleaners & Janitors",196,70,130,22,0.943
+"2020-04-01","Cleaners & Janitors",251,196,77,39,0.888
+"2020-05-01","Cleaners & Janitors",353,251,141,30,0.845
+"2020-06-01","Cleaners & Janitors",530,353,207,43,0.915
+"2020-07-01","Cleaners & Janitors",738,530,251,78,0.919
+"2020-08-01","Cleaners & Janitors",999,738,339,105,0.894
+"2020-09-01","Cleaners & Janitors",1254,999,360,138,0.895
+"2020-10-01","Cleaners & Janitors",1309,1254,193,78,0.890
+"2020-11-01","Cleaners & Janitors",1407,1309,176,122,0.940
+"2020-12-01","Cleaners & Janitors",1465,1407,180,162,0.913
+"2021-01-01","Cleaners & Janitors",1574,1465,271,145,0.889
+"2021-02-01","Cleaners & Janitors",1695,1574,266,137,0.908
+"2021-03-01","Cleaners & Janitors",1816,1695,258,161,0.919
+"2021-04-01","Cleaners & Janitors",1880,1816,225,154,0.911
+"2021-05-01","Cleaners & Janitors",1914,1880,188,204,0.918
+"2021-06-01","Cleaners & Janitors",1890,1914,180,226,0.893
+"2021-07-01","Cleaners & Janitors",1776,1890,112,251,0.880
+"2021-08-01","Cleaners & Janitors",1650,1776,125,241,0.859
+"2021-09-01","Cleaners & Janitors",1536,1650,127,254,0.854
+"2020-01-01","Consultants & Freelancers",1,NULL,1,0,NULL
+"2020-02-01","Consultants & Freelancers",94,1,93,7,1.000
+"2020-03-01","Consultants & Freelancers",214,94,127,31,0.926
+"2020-04-01","Consultants & Freelancers",255,214,72,53,0.855
+"2020-05-01","Consultants & Freelancers",258,255,56,26,0.792
+"2020-06-01","Consultants & Freelancers",295,258,63,31,0.899
+"2020-07-01","Consultants & Freelancers",383,295,119,32,0.895
+"2020-08-01","Consultants & Freelancers",516,383,165,50,0.916
+"2020-09-01","Consultants & Freelancers",636,516,170,73,0.903
+"2020-10-01","Consultants & Freelancers",741,636,178,49,0.885
+"2020-11-01","Consultants & Freelancers",836,741,144,54,0.934
+"2020-12-01","Consultants & Freelancers",888,836,106,80,0.935
+"2021-01-01","Consultants & Freelancers",1037,888,229,70,0.910
+"2021-02-01","Consultants & Freelancers",1211,1037,244,105,0.932
+"2021-03-01","Consultants & Freelancers",1418,1211,312,132,0.913
+"2021-04-01","Consultants & Freelancers",1613,1418,327,163,0.907
+"2021-05-01","Consultants & Freelancers",1719,1613,269,160,0.899
+"2021-06-01","Consultants & Freelancers",1814,1719,255,163,0.907
+"2021-07-01","Consultants & Freelancers",1818,1814,167,197,0.910
+"2021-08-01","Consultants & Freelancers",1847,1818,226,241,0.892
+"2021-09-01","Consultants & Freelancers",1795,1847,189,195,0.870
+"2020-02-01","Events & Entertainment",50,NULL,50,6,NULL
+"2020-03-01","Events & Entertainment",88,50,44,22,0.880
+"2020-04-01","Events & Entertainment",74,88,8,17,0.750
+"2020-05-01","Events & Entertainment",72,74,15,17,0.770
+"2020-06-01","Events & Entertainment",98,72,43,14,0.764
+"2020-07-01","Events & Entertainment",131,98,47,10,0.857
+"2020-08-01","Events & Entertainment",185,131,64,15,0.924
+"2020-09-01","Events & Entertainment",242,185,72,25,0.919
+"2020-10-01","Events & Entertainment",296,242,79,18,0.897
+"2020-11-01","Events & Entertainment",338,296,60,43,0.939
+"2020-12-01","Events & Entertainment",336,338,41,35,0.873
+"2021-01-01","Events & Entertainment",393,336,92,32,0.896
+"2021-02-01","Events & Entertainment",438,393,77,39,0.919
+"2021-03-01","Events & Entertainment",524,438,125,46,0.911
+"2021-04-01","Events & Entertainment",649,524,171,50,0.912
+"2021-05-01","Events & Entertainment",768,649,169,71,0.923
+"2021-06-01","Events & Entertainment",818,768,121,83,0.908
+"2021-07-01","Events & Entertainment",820,818,85,105,0.899
+"2021-08-01","Events & Entertainment",816,820,101,110,0.872
+"2021-09-01","Events & Entertainment",794,816,88,99,0.865
+"2020-09-01","General Liability",41,NULL,41,13,NULL
+"2020-10-01","General Liability",86,41,58,5,0.683
+"2020-11-01","General Liability",160,86,79,37,0.942
+"2020-12-01","General Liability",203,160,80,35,0.769
+"2021-01-01","General Liability",332,203,164,33,0.828
+"2021-02-01","General Liability",619,332,320,51,0.901
+"2021-03-01","General Liability",1181,619,613,139,0.918
+"2021-04-01","General Liability",1829,1181,787,220,0.882
+"2021-05-01","General Liability",2614,1829,1005,272,0.880
+"2021-06-01","General Liability",3394,2614,1052,342,0.896
+"2021-07-01","General Liability",4457,3394,1405,485,0.899
+"2021-08-01","General Liability",5970,4457,1998,611,0.891
+"2021-09-01","General Liability",7366,5970,2007,745,0.898
+"2020-01-01","Handymen & Contractors",3,NULL,3,0,NULL
+"2020-02-01","Handymen & Contractors",159,3,156,7,1.000
+"2020-03-01","Handymen & Contractors",409,159,257,49,0.956
+"2020-04-01","Handymen & Contractors",496,409,136,100,0.880
+"2020-05-01","Handymen & Contractors",561,496,165,74,0.798
+"2020-06-01","Handymen & Contractors",742,561,255,70,0.868
+"2020-07-01","Handymen & Contractors",1069,742,397,123,0.906
+"2020-08-01","Handymen & Contractors",1546,1069,600,167,0.885
+"2020-09-01","Handymen & Contractors",2091,1546,712,237,0.892
+"2020-10-01","Handymen & Contractors",2526,2091,672,149,0.887
+"2020-11-01","Handymen & Contractors",2956,2526,579,279,0.941
+"2020-12-01","Handymen & Contractors",3212,2956,535,355,0.906
+"2021-01-01","Handymen & Contractors",3628,3212,771,353,0.889
+"2021-02-01","Handymen & Contractors",3945,3628,670,368,0.903
+"2021-03-01","Handymen & Contractors",4193,3945,616,394,0.907
+"2021-04-01","Handymen & Contractors",4263,4193,464,359,0.906
+"2021-05-01","Handymen & Contractors",4266,4263,362,387,0.916
+"2021-06-01","Handymen & Contractors",4192,4266,313,406,0.909
+"2021-07-01","Handymen & Contractors",4039,4192,253,423,0.903
+"2021-08-01","Handymen & Contractors",3936,4039,320,501,0.895
+"2021-09-01","Handymen & Contractors",3735,3936,300,510,0.873
+"2020-02-01","Landscapers",29,NULL,29,1,NULL
+"2020-03-01","Landscapers",95,29,67,9,0.966
+"2020-04-01","Landscapers",185,95,99,15,0.905
+"2020-05-01","Landscapers",275,185,105,26,0.919
+"2020-06-01","Landscapers",348,275,99,34,0.905
+"2020-07-01","Landscapers",452,348,138,50,0.902
+"2020-08-01","Landscapers",484,452,82,58,0.889
+"2020-09-01","Landscapers",499,484,73,52,0.880
+"2020-10-01","Landscapers",499,499,52,26,0.896
+"2020-11-01","Landscapers",525,499,52,62,0.948
+"2020-12-01","Landscapers",498,525,35,59,0.882
+"2021-01-01","Landscapers",492,498,53,46,0.882
+"2021-02-01","Landscapers",518,492,72,51,0.907
+"2021-03-01","Landscapers",579,518,112,80,0.902
+"2021-04-01","Landscapers",587,579,88,59,0.862
+"2021-05-01","Landscapers",598,587,70,74,0.899
+"2021-06-01","Landscapers",573,598,49,83,0.876
+"2021-07-01","Landscapers",540,573,50,83,0.855
+"2021-08-01","Landscapers",495,540,38,72,0.846
+"2021-09-01","Landscapers",459,495,36,59,0.855
+"2020-02-01","Pet Services",8,NULL,8,0,NULL
+"2020-03-01","Pet Services",16,8,8,3,1.000
+"2020-04-01","Pet Services",18,16,5,2,0.813
+"2020-05-01","Pet Services",17,18,1,0,0.889
+"2020-06-01","Pet Services",25,17,8,0,1.000
+"2020-07-01","Pet Services",31,25,6,1,1.000
+"2020-08-01","Pet Services",34,31,4,2,0.968
+"2020-09-01","Pet Services",47,34,15,17,0.941
+"2020-10-01","Pet Services",35,47,5,1,0.638
+"2020-11-01","Pet Services",42,35,8,4,0.971
+"2020-12-01","Pet Services",39,42,1,3,0.905
+"2021-01-01","Pet Services",46,39,10,0,0.923
+"2021-02-01","Pet Services",51,46,5,7,1.000
+"2021-03-01","Pet Services",54,51,10,5,0.863
+"2021-04-01","Pet Services",59,54,10,5,0.907
+"2021-05-01","Pet Services",60,59,6,3,0.915
+"2021-06-01","Pet Services",60,60,3,8,0.950
+"2021-07-01","Pet Services",54,60,2,8,0.867
+"2021-08-01","Pet Services",47,54,1,5,0.852
+"2021-09-01","Pet Services",42,47,0,3,0.894
