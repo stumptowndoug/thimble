@@ -242,4 +242,14 @@ group by
 1
 ```
 
+**Here is a view of retention rate by appkey.  Interesting to see policies purchased on andriod app have lower retention**
+ 
+ ![Retention Rate - appkey](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2b_appkey.png)
+ 
+ 
+**Here is a view of retention rate by plan name.
+ 
+ ![Retention Rate - appkey](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2b_plan_name.png)
+
+
 
