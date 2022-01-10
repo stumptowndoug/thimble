@@ -148,4 +148,13 @@ from
 bop_data
 ```
 
+## Question 2:
+We sell a monthly product where customers can choose to continue coverage on a monthly basis.  We want to know what % of our monthly customers we’re keeping over each month of their lifetime.
+
+Help us understand this by showing our customer retention rate over each month of their lifetime.  As you work on this, compare the performance of some different customer segmentations or cohorts.  Did you find that any one particular group of customers performs differently than any others?
+
+We’d like to see an accompanying visualization to show your findings, and also the code you used to calculate monthly retention. 
+
+ * Answer: ![Retention Rate](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2.png)
+
 
