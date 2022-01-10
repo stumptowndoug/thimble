@@ -8,7 +8,7 @@ We just launched a new product, called a Business Owners Policy (BOP).  Our CEO 
 
 **For our repeat customers:**
  * How many had an active policy at time of purchase for BOP?
-   * Answer: I show 7 had an active policy at the time of BOP purchase
+   # Answer: I show 7 had an active policy at the time of BOP purchase
  * How many were dormant before their BOP purchase?
    * Answer: I show 24 dormant before NOP purchase
  * How many retained their non-BOP policy when they purchased BOP?
