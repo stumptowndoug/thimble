@@ -4,7 +4,7 @@
 We just launched a new product, called a Business Owners Policy (BOP).  Our CEO wants to better understand customer behavior after launch.  These are his questions:
 
 **What is the ratio of new to repeat customers we’re getting for our BOP sales?**
- * **Answer:** I show 344 total BOP sales (excluding declind status).  313 new, 31 repeat
+ * **Answer:** I show 344 total BOP sales (excluding declined status).  313 new, 31 repeat
 
 **For our repeat customers:**
  * How many had an active policy at time of purchase for BOP?
@@ -14,7 +14,7 @@ We just launched a new product, called a Business Owners Policy (BOP).  Our CEO 
  * How many were dormant before their BOP purchase?
    * **Answer:** I show 24 dormant before NOP purchase
  * How many retained their non-BOP policy when they purchased BOP?
-   * **Answer:** I show 4 retained thier non-BOP policy
+   * **Answer:** I show 4 retained their non-BOP policy
 
 For this exercise, provide the code you used to answer these questions.
 
@@ -157,7 +157,7 @@ Help us understand this by showing our customer retention rate over each month o
 
 We’d like to see an accompanying visualization to show your findings, and also the code you used to calculate monthly retention. 
 
- * **Answer:** I show the retention rates hovers around 85-95%
+ * **Answer:** I show the retention rates hover around 85-95%
  
  ![Retention Rate](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2.png)
  
@@ -242,7 +242,7 @@ group by
 1
 ```
 
-**Here is a view of retention rate by appkey.  Interesting to see policies purchased on andriod app have lower retention**
+**Here is a view of retention rate by appkey.  Interesting to see policies purchased on android app have lower retention**
  
  ![Retention Rate - appkey](https://thimble-homework.s3.us-west-2.amazonaws.com/question_2b_appkey.png)
  
