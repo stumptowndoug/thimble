@@ -6,6 +6,16 @@ We just launched a new product, called a Business Owners Policy (BOP).  Our CEO 
 **What is the ratio of new to repeat customers we’re getting for our BOP sales?**
  * Answer: I show 344 total BOP sales (excluding declind status).  313 new, 31 repeat
 
+**For our repeat customers:**
+ * How many had an active policy at time of purchase for BOP?
+   * Answer: I show 7 had an active policy at the time of BOP purchase
+ * How many were dormant before their BOP purchase?
+   * Answer: I show 24 dormant before NOP purchase
+ * How many retained their non-BOP policy when they purchased BOP?
+   * Answer: I show 4 retained thier non-BOP policy
+
+For this exercise, provide the code you used to answer these questions.
+
 ```SQL
 ----------------------------------------------------------------
 --QUESTION 1 QUERY
@@ -137,12 +147,5 @@ sum(retained_non_bop_policy) as retained_non_bop_policy
 from
 bop_data
 ```
-
-**For our repeat customers:**
-2. How many had an active policy at time of purchase for BOP?  
-3. How many were dormant before their BOP purchase?
-4. How many retained their non-BOP policy when they purchased BOP?
-
-For this exercise, provide the code you used to answer these questions.
 
 
