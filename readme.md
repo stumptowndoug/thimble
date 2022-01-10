@@ -98,31 +98,31 @@ select
 bs.*,
 nbd.*,
 case
-	when purchase_seq = 1 and policy_name_seq = 1
-	then 1
-	else 0
+  when purchase_seq = 1 and policy_name_seq = 1
+  then 1
+  else 0
 end as new_customer,
 case
-	when purchase_seq > 1 and policy_name_seq = 1
-	then 1
-	else 0
+  when purchase_seq > 1 and policy_name_seq = 1
+  then 1
+  else 0
 end as repeat_customer,
 case
-	when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t
-	then 1
-	else 0
+  when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t
+  then 1
+  else 0
 end as active_policy_at_purchase,
 case
-	when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt < create_date_t
-	then 1
-	else 0
+  when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt < create_date_t
+  then 1
+  else 0
 end as dormant_policy_at_purchase,
 case
-	when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t and max_non_bop_cancel_dt IS NULL
-	then 1
-	when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t and date(max_non_bop_cancel_dt) != date(max_non_bop_coverage_dt)
-	then 1
-	else 0
+  when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t and max_non_bop_cancel_dt IS NULL
+  then 1
+  when purchase_seq > 1 and policy_name_seq = 1 and max_non_bop_coverage_dt > create_date_t and date(max_non_bop_cancel_dt) != date(max_non_bop_coverage_dt)
+  then 1
+  else 0
 end as retained_non_bop_policy
 
 from
